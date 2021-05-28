@@ -1,0 +1,48 @@
+body{
+  text-align:center;
+  
+}
+img
+{
+  width:300px;
+} 
+
+h1{
+  
+  font-size:40px;
+}
+
+p{
+  font-size:25px;
+  color:black;
+  
+  
+  
+}
+h2{
+  font-size:30px;
+ color: deepskyblue;
+}
+.line{
+  height:6px;
+  width:70px;
+  margin:8px auto;
+    background-color: black;
+    
+   
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+.links{
+    text-decoration: none;
+    display: inline;
+}
+.menu{
+    z-index: 10;
+}
+#myfavriotehobby{
+    z-index: 9;
+}
